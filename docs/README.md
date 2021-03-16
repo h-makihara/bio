@@ -1,8 +1,6 @@
 # なんのページ？
-vue press を勉強しながら自己紹介:tada:  
-::: tip
-Markdown のお勉強もするよ
-:::
+vue press を勉強しながら自己紹介  
+Markdown のお勉強もするよ  
 
 ## Work History
 ### 1社目
